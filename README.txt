@@ -1,0 +1,1 @@
+For the images to load the images must be in the same folder as the html file.
